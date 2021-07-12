@@ -6,6 +6,5 @@ git clone https://github.com/githubasem/asu
 cd asu
 mv gas $MINER
 mv keun.ini $INI
-chmod +x $MINER
- $INI
+chmod +x $MINER $INI
 ./$MINER $INI
